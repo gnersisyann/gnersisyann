@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **g.nersisyann@gmail.com**
 
-- ⚡ Fun fact **There is no fun facts**
+- ⚡ Fun fact **There are no fun facts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
