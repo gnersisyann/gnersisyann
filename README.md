@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garnik</h1>
-<h3 align="center">Future software developer from Armenia 🇦🇲</h3>
+<h3 align="center">Future software engineer from Armenia 🇦🇲</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnersisyann&label=Profile%20views&color=0e75b6&style=flat" alt="gnersisyann" /> </p>
 
