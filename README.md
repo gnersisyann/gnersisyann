@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnersisyann&label=Profile%20views&color=0e75b6&style=flat" alt="gnersisyann" /> </p>
 
-- 🌱 I’m currently learning **Algorithms and Data structures**
-
-- 📫 How to reach me **g.nersisyann@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/garnik-nersisyan-5bab772a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garnik-nersisyan-5bab772a1" height="30" width="40" /></a>
